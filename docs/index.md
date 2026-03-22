@@ -1,17 +1,54 @@
-# Welcome to MkDocs
+# Portal Técnicos
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bem-vindo ao repositório central de documentação. Aqui estão organizados todos os scripts, rotinas de produtividade e resumos de engenharia e projetos.
 
-## Commands
+Selecione uma área abaixo para acessar os manuais:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<div class="grid cards" markdown>
 
-## Project layout
+-   :fontawesome-brands-python: __Automação CAD__
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    ---
+
+    Biblioteca de scripts para ganhar tempo em projetos.
+    
+    * [Lisp](Manuais Técnicos\automacao\Lisp.md)
+    * [Scripts em Python e VBA](#)
+    * [Extração de dados e tabelas](#)
+
+-   :fontawesome-solid-earth-americas: __Geodésia e Topografia__
+
+    ---
+
+    Base de conhecimento e resumos acadêmicos (FATEC).
+    
+    * [Cálculos de Coordenadas e Poligonais](Manuais Técnicos\topografia\calculo-coordenadas.md)
+    * [Ajustamento de Erros](#)
+    * [Sistemas de Referência e Projeções](#)
+
+-   :fontawesome-solid-water: __Saneamento e Infraestrutura__
+
+    ---
+
+    Diretrizes e normas para projetos de engenharia.
+    
+    * [Projetos de Redes de Esgoto e Integração](#)
+    * [Drenagem e Pavimentação](#)
+    * [Detalhamento de Valas e Poços de Visita](#)
+
+-   :fontawesome-solid-bars-progress: __Gestão e Processos__
+
+    ---
+
+    Manuais de apoio para gerenciamento de projetos.
+    
+    * [Checklists de Qualidade CAD](#)
+    * [Acompanhamento de Cronogramas](#)
+
+</div>
+
+---
+
+## 📌 Atualizações Recentes
+* **Nova rotina LISP adicionada:** Comando para inserir estacas ao longo de um alinhamento.
+* **Resumo publicado:** Fechamento de poligonal topográfica.

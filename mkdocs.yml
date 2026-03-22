@@ -10,3 +10,10 @@ theme:
   palette:
     scheme: slate # Ativa um modo escuro (Dark Mode) nativo e moderno
     primary: indigo
+
+  nav:
+  - Início: index.md
+  - Automação CAD:
+    - Rotinas em AutoLISP: automacao/Lisp.md
+  - Topografia e Geodésia:
+  - Engenharia e Infraestrutura:

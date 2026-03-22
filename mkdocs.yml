@@ -1,0 +1,12 @@
+site_name: Manuais e Documentação Técnica
+site_description: Portal de estudos focado em topografia, geodésia e automação CAD.
+site_author: Jefter
+
+theme:
+  name: material
+  features:
+    - navigation.tabs # Cria um menu superior elegante
+    - search.suggest # Deixa a barra de busca mais inteligente
+  palette:
+    scheme: slate # Ativa um modo escuro (Dark Mode) nativo e moderno
+    primary: indigo

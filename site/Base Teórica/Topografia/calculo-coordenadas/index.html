@@ -865,12 +865,12 @@ import math</p>
 <p>def calcular_coordenada(e_origem, n_origem, distancia, azimute_graus):
     # Converte o azimute para radianos
     azimute_rad = math.radians(azimute_graus)</p>
-<pre><code># Aplica as fórmulas trigonométricas
+<div class="language-text highlight"><pre><span></span><code># Aplica as fórmulas trigonométricas
 e_destino = e_origem + (distancia * math.sin(azimute_rad))
 n_destino = n_origem + (distancia * math.cos(azimute_rad))
 
 return round(e_destino, 3), round(n_destino, 3)
-</code></pre>
+</code></pre></div>
 <h1 id="exemplo-de-uso">Exemplo de uso:</h1>
 <p>estacao_E, estacao_N = 1000.000, 2000.000
 dist = 45.50

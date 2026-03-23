@@ -92,6 +92,6 @@ tags: [autocad, lisp, topografia]
 **Vídeo do script sendo executado.**
 
 <video width="100%" controls muted>
-  <source src="../../../assets/23-13-41.mp4" type="video/mp4">
+  <source src="../../../../assets/23-13-41.mp4" type="video/mp4">
   Seu navegador não suporta a tag de vídeo.
 </video>

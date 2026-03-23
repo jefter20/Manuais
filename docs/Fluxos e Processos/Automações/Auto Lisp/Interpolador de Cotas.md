@@ -89,5 +89,5 @@ tags: [autocad, lisp, topografia]
 ```
   
   
-## 3. Demonstração do Interpolador.
-![Demonstração do Interpolador](/assets/23-13-41.gif){ width="100%" controls muted }
+## 4. Demonstração do Interpolador.
+![Demonstração do Interpolador](/../../../assets/23-13-41.gif){ width="100%" controls muted }

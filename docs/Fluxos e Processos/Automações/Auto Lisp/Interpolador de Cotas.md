@@ -90,4 +90,4 @@ tags: [autocad, lisp, topografia]
   
   
 ## 3. Demonstração do Interpolador.
-![Demonstração do Interpolador](/assets/23-13-41.mp4){ width="100%" controls muted }
+![Demonstração do Interpolador](/assets/23-13-41.gif){ width="100%" controls muted }

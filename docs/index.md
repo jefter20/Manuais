@@ -1,54 +1,31 @@
-# Portal Técnicos
+Bem-vindo. Este é o repositório centralizado para documentação de rotinas, diretrizes de projetos de infraestrutura e resumos acadêmicos. 
 
-Bem-vindo ao repositório central de documentação. Aqui estão organizados todos os scripts, rotinas de produtividade e resumos de engenharia e projetos.
-
-Selecione uma área abaixo para acessar os manuais:
 
 <div class="grid cards" markdown>
 
--   :fontawesome-brands-python: __Automação CAD__
-
+-   ### 📋 Normas e Procedimentos
     ---
-
-    Biblioteca de scripts para ganhar tempo em projetos.
+    Diretrizes, leis e padrões técnicos.
     
-    * [Lisp](Manuais Técnicos\automacao\Lisp.md)
-    * [Scripts em Python e VBA](#)
-    * [Extração de dados e tabelas](#)
+    * [Lisp](Fluxos e Processos\Automações\Auto Lisp\Lisp.md)
 
--   :fontawesome-solid-earth-americas: __Geodésia e Topografia__
-
+-   ### ⚙️ Fluxos e Processos
     ---
-
-    Base de conhecimento e resumos acadêmicos (FATEC).
+    Manuais práticos, passo a passo e scripts de automação para o dia a dia.
     
-    * [Cálculos de Coordenadas e Poligonais](Manuais Técnicos\topografia\calculo-coordenadas.md)
-    * [Ajustamento de Erros](#)
-    * [Sistemas de Referência e Projeções](#)
+    * [Baixar e Tratar Imagens CBERS](fluxos/cbers-qgis.md)
 
--   :fontawesome-solid-water: __Saneamento e Infraestrutura__
-
+-   ### 📚 Base Teórica 
     ---
-
-    Diretrizes e normas para projetos de engenharia.
+    Documentação de literatura técnica e Base conceitual.
     
-    * [Projetos de Redes de Esgoto e Integração](#)
-    * [Drenagem e Pavimentação](#)
-    * [Detalhamento de Valas e Poços de Visita](#)
+    * [Cálculo de Coordenadas](Base Teórica\Topografia\calculo-coordenadas.md)
 
--   :fontawesome-solid-bars-progress: __Gestão e Processos__
-
-    ---
-
-    Manuais de apoio para gerenciamento de projetos.
-    
-    * [Checklists de Qualidade CAD](#)
-    * [Acompanhamento de Cronogramas](#)
 
 </div>
 
 ---
 
-## 📌 Atualizações Recentes
+## 📌 Últimos posts
 * **Nova rotina LISP adicionada:** Comando para inserir estacas ao longo de um alinhamento.
 * **Resumo publicado:** Fechamento de poligonal topográfica.

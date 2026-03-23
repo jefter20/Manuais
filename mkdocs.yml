@@ -1,6 +1,6 @@
-site_name: Manuais e Documentação Técnica
-site_description: Portal de estudos focado em topografia, geodésia e automação CAD.
-site_author: Jefter
+site_name: Alves | Base de Conhecimento Técnico
+site_description: Portal de estudos focado em Auto Cad, automação CAD usando Auto Lisp e Python, Topografia e Projetos.
+site_author: Jefter Alves
 
 theme:
   name: material
@@ -13,10 +13,9 @@ theme:
 
   nav:
   - Início: index.md
-  - Automação CAD:
-    - Rotinas em AutoLISP: automacao/Lisp.md
-  - Topografia e Geodésia:
-  - Engenharia e Infraestrutura:
+  - 📋 Normas e Procedimentos:
+  - ⚙️ Fluxos e Processos:
+  - 📚 Base Teórica:
 
 markdown_extensions:
   - attr_list

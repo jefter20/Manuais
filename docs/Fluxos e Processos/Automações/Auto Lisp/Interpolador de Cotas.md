@@ -91,4 +91,8 @@ tags: [autocad, lisp, topografia]
   
 ## 4. Demonstração do Interpolador.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zQmaKeu8vaw?si=BDViMY-RJlLa09Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div align="center">
+  <iframe src="https://www.youtube.com/embed/zQmaKeu8vaw?si=BDViMY-RJlLa09Kk&rel=0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="width: 100%; aspect-ratio: 16/9; border-radius: 4px;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+> **Nota:** Para visualizar os comandos com nitidez, clique no ícone do (YouTube), depois no ícone da engrenagem (⚙️) e altere a qualidade para **1080p**.
